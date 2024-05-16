@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1712276136 source:c:\users\alumno\desktop\semana03\main.cpp
-	<iostream>
-	<cstdlib>
-	<cstring>
-	"Temporizador.h"
-
-1712276264 c:\users\alumno\desktop\semana03\temporizador.h
-
